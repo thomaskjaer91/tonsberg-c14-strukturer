@@ -46,7 +46,7 @@ Disse datasettene utgjør grunnlaget for analysene gjennomført i masteroppgaven
 ### C14-datasett
 
 | **Variabel** | **Beskrivelse** |
-|---------------|-----------------|
+| :--- | :--- |
 | **RadID** | Intern identifikator.|
 | **Lokalitet** | Navn på utgravningslokaliteten eller gateadresse.|
 | **PrøveID** | Innmålingsnummer ved innsamling av prøven i felt.|
