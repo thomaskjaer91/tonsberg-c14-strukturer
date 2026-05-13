@@ -30,7 +30,7 @@ ETRS89 / UTM zone 32N (EPSG:25832)
 
 
 ## Hvordan sitere
-Kjær, Thomas (2026). *Struktur- og C14-data fra middelalderbyen Tønsberg* Zenodo. DOI: 
+Kjær, Thomas (2026). *Struktur- og C14-data fra middelalderbyen Tønsberg*. Zenodo. DOI: 
 
 ## Lisens
 Datasettene er publisert under **Creative Commons Attribution 4.0 International License (CC BY 4.0)**.
