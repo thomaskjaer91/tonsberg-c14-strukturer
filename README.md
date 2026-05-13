@@ -1,6 +1,6 @@
 # Strukturdatabase og C14-datasett fra middelalderbyen Tønsberg
 ## Beskrivelse
-Disse datasettene utgjør grunnlaget for analysene gjennomført i masteroppgaven *Produksjonen av en by. En bymorfologisk studie av Tønsberg i middelalderen* av Thomas Kjær.
+Disse datasettene utgjør grunnlaget for analysene gjennomført i masteroppgaven *Produksjonen av en by. En bymorfologisk studie av Tønsberg i middelalderen* (2026) av Thomas Kjær.
 
 ## Innhold
 - `Struktur-database_Tonsberg_v1.0.csv` – Strukturdatabase i CSV UTF-8-format.
