@@ -13,7 +13,7 @@ Disse datasettene utgjør grunnlaget for analysen gjennomført i masteroppgaven 
 | **Variabel** | **Beskrivelse** |
 | :--- | :--- |
 | **WKT** | Strukturenes geometri (MULTIPOLYGON). |
-| **fid** | Intern unik identifikator opprettet av QGIS. |
+| **fid** | Intern identifikator opprettet av QGIS. |
 | **sone** | Analyseområder definert i masteroppgaven.|
 | **lokalitet** | Navn på utgravningslokaliteten eller gateadresse.|
 | **struktur_id** | Unik identifikator for den arkeologiske strukturen. |
@@ -44,7 +44,7 @@ Disse datasettene utgjør grunnlaget for analysen gjennomført i masteroppgaven 
 
 | **Variabel** | **Beskrivelse** |
 |---------------|-----------------|
-| **RadID** | Identifikasjonsnummer for hver oppføring.|
+| **RadID** | Intern identifikator.|
 | **Lokalitet** | Navn på utgravningslokaliteten eller gateadresse.|
 | **PrøveID** | Innmålingsnummer ved innsamling av prøven i felt.|
 | **KontekstID** | Strukturen/laget prøven er hentet fra/tilknyttet.|
