@@ -9,7 +9,8 @@ Disse datasettene utgjør grunnlaget for analysene gjennomført i masteroppgaven
 - `Struktur-database_Tonsberg_v1.0.gpkg` – Strukturdatabase i geopackage format.
 - `README.md` – Variabeloversikt, koordinatsystem, sitering, lisens og kontaktinformasjon.
 
-## Metadata - strukturdatabase
+## Metadata
+### Strukturdatabase
 
 | **Variabel** | **Beskrivelse** |
 | :--- | :--- |
@@ -37,11 +38,11 @@ Disse datasettene utgjør grunnlaget for analysene gjennomført i masteroppgaven
 | **c_nr** | Katalognummer. |
 | **kilde** | Referanse til utgravningsrapporten. |
 
-### Koordinatsystem og nøyaktighet
+#### Koordinatsystem og nøyaktighet
 * **Koordinatsystem:** ETRS89 / UTM sone 32N (EPSG:25832)  
 * **Nøyaktighet:** Strukturene er manuelt georeferert i QGIS med utgangspunkt i originale fasekart og illustrasjoner fra utgravningsrapportene.
 
-## Metadata - C14-datasett
+### C14-datasett
 
 | **Variabel** | **Beskrivelse** |
 |---------------|-----------------|
@@ -58,7 +59,7 @@ Disse datasettene utgjør grunnlaget for analysene gjennomført i masteroppgaven
 | **Nord_UTM32_ETRS89** | Y-koordinat (Nord/Northing).|
 | **Referanse** | Referanse til utgravningsrapport eller annen relevant publikasjon.|
 
-### Koordinatsystem
+#### Koordinatsystem
 ETRS89 / UTM sone 32N (EPSG:25832)  
 
 ## Hvordan sitere
