@@ -1,6 +1,6 @@
 # Struktur- og C14-data fra middelalderbyen Tønsberg
 ## Beskrivelse
-Disse datasettene utgjør grunnlaget for analysen gjennomført i masteroppgaven *Produksjonen av en by. En bymorfologisk studie av Tønsberg i middelalderen*. 
+Disse datasettene utgjør grunnlaget for analysene gjennomført i masteroppgaven *Produksjonen av en by. En bymorfologisk studie av Tønsberg i middelalderen*. 
 
 ## Innhold
 - `C14-database_Tonsberg_v1.0.csv` – C14-datasett i CSV UTF-8 format.
