@@ -29,7 +29,7 @@ Disse datasettene utgjør grunnlaget for analysen gjennomført i masteroppgaven 
 | **C14_samlet** | Gjennomsnittet av den kalibrerte median-dateringen gitt av OxCal. |
 | **C14_labid_1 til 4** | Laboratoriereferanser for dateringer tilknyttet strukturen. |
 | **utgravd_år** | Året det arkeologiske feltarbeidet ble utført. |
-| **utgravd_år** | Institusjon ansvarlig for utgravningen. |
+| **utgravd_av** | Institusjon ansvarlig for utgravningen. |
 | **utgravd_areal** | Utgravningsfeltets størrelse. |
 | **tbg_kode** | Prosjektkode brukt av Riksantikvaren. |
 | **niku_prosjektnr** | Prosjektkode brukt av NIKU. |
