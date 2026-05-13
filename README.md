@@ -22,7 +22,7 @@ Disse datasettene utgjør grunnlaget for analysen gjennomført i masteroppgaven 
 | **byverdi** | Funksjonell kategorisering som er nærmere beskrevet i masteroppgaven. |
 | **bruksverdi** | Overordnet funksjonskategori. |
 | **areal_m2** | Spesifikk funksjonskategori. |
-| **ET_1 til ET_6** | Binær datering (1/0) for analyseperiodene benyttet i masteroppgaven.ET1:600–1100, ET2:1100–1200, ET3:1200–1300, ET4:1300–1400, ET5:1400–1500, ET6:1500–1537. |
+| **ET_1 til ET_6** | Binær datering (1/0) for analyseperiodene benyttet i masteroppgaven. ET1:600–1100, ET2:1100–1200, ET3:1200–1300, ET4:1300–1400, ET5:1400–1500, ET6:1500–1537. |
 | **utgravningsfase** | Faseangivelse fra utgravningsrapport. |
 | **utgravningsfase_fra** | Antatt nedre datering for fasen. |
 | **utgravningsfase_til** | Antatt øvre datering for fasen. |
