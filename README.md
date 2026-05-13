@@ -19,9 +19,9 @@ Disse datasettene utgjør grunnlaget for analysen gjennomført i masteroppgaven 
 | **struktur_id** | Unik identifikator for den arkeologiske strukturen. |
 | **struktur_navn** | Navn gitt til strukturen i utgravningsrapporten. |
 | **funksjonskode** | Numerisk kode som beskriver både byverdi og bruksverdi. |
-| **byverdi** | Funksjonell kategorisering som er nærmere beskrevet i masteroppgaven. |
-| **bruksverdi** | Overordnet funksjonskategori. |
-| **areal_m2** | Spesifikk funksjonskategori. |
+| **byverdi** | Overordnet funksjonskategori. |
+| **bruksverdi** | Spesifikk funksjonskategori. |
+| **areal_m2** | Strukturens fremgravde areal i kvadratmeter. |
 | **ET_1 til ET_6** | Binær datering (1/0) for analyseperiodene benyttet i masteroppgaven. ET1:600–1100, ET2:1100–1200, ET3:1200–1300, ET4:1300–1400, ET5:1400–1500, ET6:1500–1537. |
 | **utgravningsfase** | Faseangivelse fra utgravningsrapport. |
 | **utgravningsfase_fra** | Antatt nedre datering for fasen. |
@@ -49,7 +49,7 @@ Disse datasettene utgjør grunnlaget for analysen gjennomført i masteroppgaven 
 | **PrøveID** | Innmålingsnummer ved innsamling av prøven i felt.|
 | **KontekstID** | Strukturen/laget prøven er hentet fra/tilknyttet.|
 | **Kontekst-beskrivelse** | Kort beskrivelse av konteksten til den innsamlede prøven.|
-| **LabID** | Laboratoriets referansenummer for dateringen. |
+| **Lab.-nr.** | Laboratoriets referansenummer for dateringen. |
 | **14C-BP** | Radiokarbonalder oppgitt i år før nåtid (BP) med standardavvik. |
 | **Kalibrert alder (2 sigma)** | Dateringsintervall i fvt./evt. med 95.4% sannsynlighet. Kalibrert i januar 2026 med IntCal20 i OxCal v4.4.|
 | **Delta 13C** | Normalsiert forhold mellom de stabile karbonisotopene 12C og 13C. Oppgitt der data er tilgjengelig. |
