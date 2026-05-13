@@ -8,6 +8,7 @@ Disse datasettene utgjør grunnlaget for analysene gjennomført i masteroppgaven
 - `Struktur-database_Tonsberg_v1.0.csv` – Strukturdatabase i CSV UTF-8 format.
 - `Struktur-database_Tonsberg_v1.0.gpkg` – Strukturdatabase i geopackage format.
 - `README.md` – Variabeloversikt, koordinatsystem, sitering, lisens og kontaktinformasjon.
+- `LICENSE` – CC BY 4.0 vilkår og betingelser
 
 ## Metadata
 ### Strukturdatabase
