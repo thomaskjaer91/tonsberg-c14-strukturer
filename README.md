@@ -7,7 +7,7 @@ Disse datasettene utgjør grunnlaget for analysene gjennomført i masteroppgaven
 - `C14-database_Tonsberg_v1.0.xlsx` – Formatert C14-datasett i Excel-format.
 - `Struktur-database_Tonsberg_v1.0.csv` – Strukturdatabase i CSV UTF-8 format.
 - `Struktur-database_Tonsberg_v1.0.gpkg` – Strukturdatabase i geopackage format.
-- `README.md` – Metadata, sitering, lisens og kontaktinformasjon.
+- `README.md` – Variabeloversikt, koordinatsystem, sitering, lisens og kontaktinformasjon.
 
 ## Metadata - strukturdatabase
 
